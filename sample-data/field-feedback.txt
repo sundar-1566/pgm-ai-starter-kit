@@ -1,0 +1,9 @@
+#deal-desk-help (week 3 after new quote approval process)
+[AE, East] Where do I attach the discount justification now? Couldn't find the field.
+[AE, West] New approval flow adds 2 days. I just email Jen directly for urgent ones.
+[SE, Central] Approval routing doesn't handle multi-year ramp deals, goes to wrong approver.
+[AE, EMEA] Why do we need 4 approvals for a 5% discount? Not explained in the training.
+[AE, East] Same question about discount justification field. Is it under Pricing tab?
+[RSM, West] My team is tracking approvals in a spreadsheet because status isn't visible in SFDC.
+[AE, APAC] Approval page times out on large quotes.
+Survey (n=41): 46% "easier than before", 34% "harder", 20% "no difference"

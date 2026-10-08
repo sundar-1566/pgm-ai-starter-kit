@@ -1,0 +1,6 @@
+key,project,owner,sponsor,tier,target_date,last_week_rag,goal
+GTM-101,Partner deal registration redesign,Priya R.,VP Channel,1,2026-11-20,Green,Cut partner deal-reg approval time from 5 days to 1
+GTM-114,CPQ add-on prerequisite rules,Marcus L.,VP Sales Ops,1,2026-10-30,Amber,Block add-on quotes when base product is missing
+CX-207,Renewal risk playbook v2,Dana K.,VP Customer Success,2,2026-12-05,Green,Flag at-risk renewals 120 days out
+CX-212,Support entitlement sync fix,Omar S.,VP Support Ops,1,2026-10-24,Red,Day-one tickets route to the right queue
+GTM-131,Seller AI assistant pilot (account research),Lena T.,CRO Staff,2,2026-11-15,Green,Save sellers 3 hrs/week on account prep

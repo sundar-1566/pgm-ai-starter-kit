@@ -1,0 +1,8 @@
+Weekly sync: CPQ add-on prerequisite rules (GTM-114), Tue Oct 6
+Attendees: Marcus L. (PgM), Ravi P. (CPQ admin), Jen W. (Deal Desk), Tom B. (Finance)
+- Ravi: rule logic done in sandbox, 3 of 4 product families tested. Platform family blocked on SKU mapping from Finance.
+- Tom: SKU mapping file will come "early next week". Needs sign-off from rev accounting first.
+- Jen: Deal Desk wants an override path for strategic deals. Agreed: override allowed with VP approval, logged in the quote.
+- Marcus: if SKU mapping slips past Oct 14, go-live slips to Nov 6. Escalate to VP Sales Ops if no file by Oct 13.
+- Jen to draft the override approval wording by Friday.
+- Open: who trains the field on the new block message? Not decided.
