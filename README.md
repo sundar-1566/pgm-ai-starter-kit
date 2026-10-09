@@ -1,6 +1,6 @@
 # PgM AI Starter Kit
 
-Six plain-English skills for program managers running a GTM/CX portfolio. Each one is a recipe an AI assistant follows. Nothing to install, and no code.
+Seven plain-English skills for program managers running a GTM/CX portfolio: six built for the portfolio cycle, plus Peter Yang's writing-quality skill. Each one is a recipe an AI assistant follows. Nothing to install, and no code.
 
 ## The skills
 | Skill | Use it when | Portfolio stage |
@@ -11,6 +11,7 @@ Six plain-English skills for program managers running a GTM/CX portfolio. Each o
 | `uat-from-qa-pass` | A story passes QA and needs business testing | Deliver the change |
 | `adoption-friction-listener` | 1–8 weeks after any process or tool rollout | Adoption |
 | `retro-synthesis` | Project close or quarter end | Close & learn |
+| `no-ai-slop` *(by Peter Yang)* | Before any AI draft goes to leaders, the field, or customers | Every stage: the owner's final review |
 
 ## Three ways to use them
 1. **Claude Code or Claude Desktop:** put each folder in `~/.claude/skills/`. The assistant picks the right one when you describe the task.
@@ -34,6 +35,9 @@ All sample data is made up.
 Track: hours returned per PgM each week, the rewrite rate (how much of the draft people change), reports on time, and weekly active users.
 
 Made by Sundar Subramanian · [github.com/sundar-1566](https://github.com/sundar-1566). Issues and suggestions welcome.
+
+## Credit: no-ai-slop
+`skills/no-ai-slop/` is included unmodified from **[petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop)** by Peter Yang, under the MIT License (see `skills/no-ai-slop/LICENSE`). Install or star the original there for updates. It pairs with one adoption rule: "the AI did that" is never an excuse. Whoever sends a draft owns it, and this skill helps them review it before it goes out.
 
 ## License
 [CC BY 4.0](LICENSE): free to use and adapt with credit.
